@@ -1,3 +1,4 @@
+/*
 /datum/round_event_control/vent_clog
 	name = "Clogged Vents: Normal"
 	typepath = /datum/round_event/vent_clog
@@ -169,3 +170,4 @@
 			smoke.set_up(7, get_turf(vent), 7)
 			smoke.start()
 		CHECK_TICK
+*/
