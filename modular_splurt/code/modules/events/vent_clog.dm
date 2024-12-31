@@ -1,3 +1,4 @@
+/* ISSO É CHATO PARA UM CARALHO ESPERO QUE QUEM TENHA FEITO ISSO MORRA
 /datum/round_event_control/vent_clog/cope_and_seethe
 	name = "Copium Flood"
 	typepath = /datum/round_event/vent_clog/cope_and_seethe
@@ -116,3 +117,4 @@
 
 /datum/round_event/vent_clog/crocin/hexacrocin/announce()
 	priority_announce("We have detected dangerously low levels of lust on the station. To fix this, we will be deploying voluminous amounts of strong aphrodisiacs. Please stand away from the vents until the pink gas dissipates if you desire to avoid brain damage.", "Central Command")
+*/

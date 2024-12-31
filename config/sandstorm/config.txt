@@ -22,11 +22,11 @@ MAX_STUPOR_HYPNO_DURATION 12000
 ## Maximum languages ##
 ## Maxmimum amount of languages someone can pick
 ## -1 means infinite and 0 disables it
-#MAX_LANGUAGES
+MAX_LANGUAGES 2
 
 ## Reveal Everything ##
 ## Uncomment to reveal everything on roundend
-#REVEAL_EVERYTHING
+REVEAL_EVERYTHING
 
 ## This allows players to select their laws as a preference and is applied when they join roundstart/latejoin
 ## It won't work if there is an active AI or if they're borged

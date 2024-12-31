@@ -83,6 +83,3 @@ endmap
 
 map boxedinstation
 endmap
-
-map 4nalstation
-endmap

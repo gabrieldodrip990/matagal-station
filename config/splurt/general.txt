@@ -4,11 +4,11 @@ ENABLE_GLOBAL_BARKS
 
 # Max number of infinidorms each mob can use
 # -1 for infinite, 0 to deactivate infinidorms as a whole
-MAX_INFINIDORMS 5
+MAX_INFINIDORMS 0
 
 # Weighted station traits
 # If uncommented, the server will pick random station traits according to their weight configuration
-WEIGHTED_STATION_TRAITS
+#WEIGHTED_STATION_TRAITS
 
 # Base amount of max save slots
 # Amount of character slots that players will have without modifiers being applied
@@ -32,4 +32,4 @@ CHARACTER_COLOR_LIMITS
 # Jukebox song limit
 # Max amount of songs that can be added to the jukebox each round.
 # -1 or comment to unlimit
-#MAX_JUKEBOX_SONGS -1
+MAX_JUKEBOX_SONGS -1
